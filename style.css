@@ -1,11 +1,4 @@
-
-
-	
-/* CSS rules go here */
-
-h1{color: darkred; font-size: 132px; text-align: center;}
-p{color:darkorange; font-size: 72px; text-align: center;}
-span{color: greenyellow;border: solid;border-color: darkviolet;border-inline: outset;}
-body{background-color: cadetblue;}
-.four{color: yellowgreen;}
-
+figcaption{color: grey;}
+h1{text-transform: uppercase;}
+body{font: georgia, serif;}
+footer{color: grey;}

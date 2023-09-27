@@ -46,6 +46,9 @@ body{
 .intro{text-align: center;}
 
 
+.exp{text-align: center; margin-top: 100px; border: dotted;}
+
+
 .j1{margin-bottom: 70px;
     margin-top: -10px;}
 
@@ -75,7 +78,7 @@ body{
     margin-top: -10px;}
 
 
-.eduu{font-weight: bolder;}
+.eduu{text-align: center;font-weight: bolder;border: dotted;}
 
 
 .grad{font-weight: 700;}
@@ -84,7 +87,7 @@ body{
 .skills{margin-top: 70px}
 
 
-.skillss{font-weight: bolder;}
+.skillss{text-align: center;font-weight: bolder;border: dotted;}
 
 
 p{margin-bottom: -10px;}
